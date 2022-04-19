@@ -1,8 +1,10 @@
 # Digital-Circuit-Design
 Lab1  
+---
 * Simple Circuit  
  
-Lab2  
+Lab2 
+---
 * Combinational Circuit  
     * Half Substractor   
     * Full Substractor  
@@ -11,5 +13,6 @@ Lab2
 * Design of Priority Encoder 
 
 Lab3-SR Latch 
+---
 * D-type Psitive Edge Trigger Flip-Flop  
 * Mealy-type Synchronous Sequential Circuit
