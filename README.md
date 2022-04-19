@@ -1,7 +1,5 @@
 # Digital-Circuit-Design
-Lab1
-===
-
+## Lab1
 Simple Circuit 
 ---
 
